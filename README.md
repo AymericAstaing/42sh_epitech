@@ -20,9 +20,12 @@ EPITECH MANDATORY
     - builtins: cd, echo, exit, setenv, unsetenv,
     - separators: ‘;’, ‘&&’, ‘||’.
 
-to launch:
-- make / make re
+to build:
+    
+    - make / make re
       
-      ./42sh
+to launch:
+
+    ./42sh
 
 Aymeric Astaing - EPITECH PARIS PROMO 2022
