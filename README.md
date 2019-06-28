@@ -8,7 +8,7 @@ The project consists of two sections:
 
 (Authorized functions: all functions included in the libC or the ncurses library.)
 
-EPITECH MANDATORIES
+EPITECH MANDATORY
     
     This section must be COMPLETELY FUNCTIONAL. Otherwise your grade will be 0.
     Concerning command parsing and execution, you must handle:
