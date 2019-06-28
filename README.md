@@ -1,4 +1,4 @@
-# 42sh-epitech (TECH 1 2017-2018)
+# 42sh_epitech (TECH 1 2017-2018)
 
 The goal of this project is to develop a Unix SHELL.
 
